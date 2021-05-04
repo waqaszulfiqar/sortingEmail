@@ -1,0 +1,14 @@
+{
+  "name": "sort_email_addresses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node sort.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Waqas Zulfiqar",
+  "license": "ISC"
+}
