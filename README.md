@@ -1,5 +1,5 @@
 # sort_emails
-It remove all the unsorted emails from the list 
+It remove all the duplicate emails from the list 
 ## Run
 
 ```
